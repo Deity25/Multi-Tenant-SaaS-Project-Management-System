@@ -14,7 +14,7 @@ Rv5 is a full-stack, multi-tenant project management system with:
 ## Quick Start (Terminal)
 1. Go to the project:
 ```
-cd "/Users/gaurishankarvhadle/Documents/New project/saas-project"
+cd "/Users/"
 ```
 
 2. Install dependencies:
